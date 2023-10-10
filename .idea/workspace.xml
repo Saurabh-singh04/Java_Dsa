@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fac845b7-e775-46fd-9794-2b0526af4e21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +38,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Condition">
+  <component name="RunManager" selected="Application.LeapYear">
     <configuration name="Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condition" />
+      <module name="java_dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
       <module name="java_dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.Condition" />
         <item itemvalue="Application.Practise" />
         <item itemvalue="Application.TypeConversion" />
