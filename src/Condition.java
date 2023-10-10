@@ -11,7 +11,7 @@ public class Condition {
         }
         else
         {
-            System.out.println("not eligible");
+            System.out.println("not eligibles");
         }
     }
 }
