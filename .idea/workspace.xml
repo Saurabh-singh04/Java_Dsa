@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac845b7-e775-46fd-9794-2b0526af4e21" name="Changes" comment="leap year" />
+    <list default="true" id="fac845b7-e775-46fd-9794-2b0526af4e21" name="Changes" comment="leap year">
+      <change afterPath="$PROJECT_DIR$/src/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ascii_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutomorphicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/CeilingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonnaciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generate_random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWorlds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintNatural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SqurarePatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_natural.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,49 +59,84 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condition" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Pattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BinarySearch.BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
       <module name="java_dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="java_dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+    <configuration name="CeilingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.CeilingNumber" />
       <module name="java_dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise" />
+    <configuration name="First_LastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.First_LastPosition" />
       <module name="java_dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeConversion" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
       <module name="java_dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.Condition" />
-        <item itemvalue="Application.Practise" />
-        <item itemvalue="Application.TypeConversion" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.First_LastPosition" />
+        <item itemvalue="Application.CeilingNumber" />
+        <item itemvalue="Application.BinarySearch.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
